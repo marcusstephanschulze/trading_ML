@@ -10,7 +10,7 @@ class Database_conn:
         self.host = 'localhost'
         self.database = 'Trading_Data'
         self.user = 'postgres'
-        self.password = 'Belgaraid1!@'
+        self.password = ''
         
         
         # Establish a connection to the PostgreSQL database
